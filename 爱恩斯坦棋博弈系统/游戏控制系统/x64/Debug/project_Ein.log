@@ -1,0 +1,11 @@
+﻿  Game.cpp
+  main.cpp
+  MCST.cpp
+c:\users\13519\desktop\project_ein_r1.3\project_ein\project_ein\mcst.cpp(20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\13519\desktop\project_ein_r1.3\project_ein\project_ein\mcst.cpp(38): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\13519\desktop\project_ein_r1.3\project_ein\project_ein\mcst.cpp(93): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  NeuralNetwork.cpp
+  Paint.cpp
+  RandomList.cpp
+  正在生成代码...
+LINK : fatal error LNK1104: 无法打开文件“python36_d.lib”

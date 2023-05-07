@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\users\13519\desktop\project_ein\project_ein\mcst.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“node”的左侧
+c:\users\13519\desktop\project_ein\project_ein\mcst.h(49): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\13519\desktop\project_ein\project_ein\mcst.h(70): warning C4018: “<”: 有符号/无符号不匹配
+  MCST.cpp
+c:\users\13519\desktop\project_ein\project_ein\mcst.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“node”的左侧
+c:\users\13519\desktop\project_ein\project_ein\mcst.h(49): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\13519\desktop\project_ein\project_ein\mcst.h(70): warning C4018: “<”: 有符号/无符号不匹配
+  Paint.cpp
+  正在生成代码...
+c:\users\13519\desktop\project_ein\project_ein\mcst.h(90): warning C4715: “MCST::transform_W_T”: 不是所有的控件路径都返回值
+MCST.obj : error LNK2005: "public: __thiscall MCST::MCST(void)" (??0MCST@@QAE@XZ) 已经在 main.obj 中定义
+MCST.obj : error LNK2005: "public: __thiscall MCST::~MCST(void)" (??1MCST@@QAE@XZ) 已经在 main.obj 中定义
+C:\Users\13519\Desktop\project_Ein\Debug\project_Ein.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
